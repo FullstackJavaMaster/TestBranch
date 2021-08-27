@@ -8,7 +8,16 @@ public class DemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
-        asdasdasdasdsd
+
     }
 
+
+
+
+
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
